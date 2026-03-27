@@ -2,10 +2,11 @@
 export semigroups
 
 using GAP_jll
+using libsemigroups_jll
 JLLWrappers.@generate_wrapper_header("GAP_pkg_semigroups")
 JLLWrappers.@declare_file_product(semigroups)
 function __init__()
-    JLLWrappers.@generate_init_header(GAP_jll)
+    JLLWrappers.@generate_init_header(GAP_jll, libsemigroups_jll)
     JLLWrappers.@init_file_product(
         semigroups,
         "lib/gap/semigroups.so",

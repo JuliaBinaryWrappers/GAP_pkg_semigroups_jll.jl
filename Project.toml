@@ -1,11 +1,12 @@
 name = "GAP_pkg_semigroups_jll"
 uuid = "6263fdc2-b0d3-58ac-9933-e1550bf6ed81"
-version = "501.50400.1+0"
+version = "501.60100.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 GAP_jll = "5cd7a574-2c56-5be2-91dc-c8bc375b9ddf"
+libsemigroups_jll = "99c76e05-e2a6-5e47-b69a-d74ec2f0d12c"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
@@ -13,4 +14,5 @@ JLLWrappers = "1.7.0"
 julia = "1.10"
 Libdl = "< 0.0.1, 1"
 GAP_jll = "~400.1500.0"
+libsemigroups_jll = "=3.5.3"
 Artifacts = "< 0.0.1, 1"
