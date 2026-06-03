@@ -1,92 +1,92 @@
 [[GAP_pkg_semigroups]]
 arch = "aarch64"
-git-tree-sha1 = "d6c277fb21733593fd9efecc1bb0528da479ccf2"
+git-tree-sha1 = "2ba5ee205d8f2a53fc9da097295a1c24b5a5fa85"
 os = "macos"
 
     [[GAP_pkg_semigroups.download]]
-    sha256 = "e643a3206ec530163ca0b818da06277b507adae3cb97e6fbc509c350e867b460"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.60100.0+0/GAP_pkg_semigroups.v501.60100.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "84ab227e36048ace5becdce1403ae32a8c39f8f4a5ca04c42034ad1ae114d56d"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.60300.0+0/GAP_pkg_semigroups.v501.60300.0.aarch64-apple-darwin.tar.gz"
 [[GAP_pkg_semigroups]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "577a46a9ad5c0da8e6fc6a4db7701e89c72b1d81"
+git-tree-sha1 = "30df7126ba6334d32e72b8379d7212b5d19310bc"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_semigroups.download]]
-    sha256 = "3bf25470eb8832e2f690610c32f97d4bbca677b6d233d579e164268b1aedb0ed"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.60100.0+0/GAP_pkg_semigroups.v501.60100.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "7982ace4c1f68b56632e826103b45bc61b72acd13fc34e9be8eff5d3fbbd12a3"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.60300.0+0/GAP_pkg_semigroups.v501.60300.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[GAP_pkg_semigroups]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "246d6d67234eaf9271c6a639e683dbf65610ff80"
+git-tree-sha1 = "346797658b0083e222b70f4a571cfd36cceb2756"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_semigroups.download]]
-    sha256 = "e90a1648613cb3e97b881d266caff838412f4ea017284f962a6d2980e666f020"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.60100.0+0/GAP_pkg_semigroups.v501.60100.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "47e885a49c162c4cf15863edc2a88d59ee5413057c1db09054c692ad0d592b89"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.60300.0+0/GAP_pkg_semigroups.v501.60300.0.aarch64-linux-musl-cxx11.tar.gz"
 [[GAP_pkg_semigroups]]
 arch = "aarch64"
-git-tree-sha1 = "952fa212c14d4d46cc9385679bdf46807f347a69"
+git-tree-sha1 = "606689b66dc2c4e2d4397f2a887a96819f8b0d34"
 os = "freebsd"
 
     [[GAP_pkg_semigroups.download]]
-    sha256 = "fd548b6013ef6f9703200cfae95387ad2cedb5b75c02aced438396948b5ea2db"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.60100.0+0/GAP_pkg_semigroups.v501.60100.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "d58695f08211e95f500d356948edf338aa04c055a3ee10e4d7cdfb83e6b0327b"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.60300.0+0/GAP_pkg_semigroups.v501.60300.0.aarch64-unknown-freebsd.tar.gz"
 [[GAP_pkg_semigroups]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dfc027c066096483de5110b7e07302ff0e8ce2a0"
+git-tree-sha1 = "34c7458dc9e6b1011444935afcf4d90995243873"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_semigroups.download]]
-    sha256 = "645f97844a16fdd2d9ee36f64a2267453cfd8f00682fc5ef7bd22888d262a5f4"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.60100.0+0/GAP_pkg_semigroups.v501.60100.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "c8f31a2b8e936f856459182c74246f243fab6d7936162c811414b619926dcd05"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.60300.0+0/GAP_pkg_semigroups.v501.60300.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[GAP_pkg_semigroups]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7ae545721613bdfef358f9b44ca6b413ee23e27f"
+git-tree-sha1 = "867b5bd8cf268715a026bac983bda3f111f14512"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_semigroups.download]]
-    sha256 = "b281ebb79821da810c094178d6d79d5f12e073ad8eb62764dc77be5ab695e584"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.60100.0+0/GAP_pkg_semigroups.v501.60100.0.riscv64-linux-gnu-cxx11.tar.gz"
+    sha256 = "6676863c501b019b5a882bc235a2e5d56546536c9c39e98e1c8e1a2556408ab8"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.60300.0+0/GAP_pkg_semigroups.v501.60300.0.riscv64-linux-gnu-cxx11.tar.gz"
 [[GAP_pkg_semigroups]]
 arch = "x86_64"
-git-tree-sha1 = "8e4f66169a4b8bb8e65b2f94baddc271d3755ce7"
+git-tree-sha1 = "06df2e9f50d9eae30b709d560a88ab255d1d892d"
 os = "macos"
 
     [[GAP_pkg_semigroups.download]]
-    sha256 = "007a9a86f963107a6a7945cf84145595b84c1fb923bde3b30b01356b0ff44728"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.60100.0+0/GAP_pkg_semigroups.v501.60100.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "855bd7a5d47dd8a70e1cd584fe98cde70fdd2c656613034c43ba20d83ff2710d"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.60300.0+0/GAP_pkg_semigroups.v501.60300.0.x86_64-apple-darwin.tar.gz"
 [[GAP_pkg_semigroups]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "474d1f58756776f1a9b03f9a9f0369eeb53ecc61"
+git-tree-sha1 = "4db1ab8516490ad57f6d5bb0788c3ff3acaabaa1"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_semigroups.download]]
-    sha256 = "6b178d98f88d2951bc2d2ff1eca5f3d53ba5b6a808fa2f85dafe014029c67a15"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.60100.0+0/GAP_pkg_semigroups.v501.60100.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "817fa2afd7719fa9ce643acb07a2c5dd3590a5df310b9f205d97bd7f4c8707ee"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.60300.0+0/GAP_pkg_semigroups.v501.60300.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[GAP_pkg_semigroups]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8d43c4ef526f6cf9f12e168f351e3a8498ebcb08"
+git-tree-sha1 = "272eae24598f00a10cd15060be99ef97aee2c757"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_semigroups.download]]
-    sha256 = "1a8f0d8cd189344cfbe612b4d1d0017f1028f55c181ecd342d115b47ba2b6e3e"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.60100.0+0/GAP_pkg_semigroups.v501.60100.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "e7a1b636f8a3fb9c14dcbdbbc17672aa35056d09d20263ac76d03a713fa69683"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.60300.0+0/GAP_pkg_semigroups.v501.60300.0.x86_64-linux-musl-cxx11.tar.gz"
 [[GAP_pkg_semigroups]]
 arch = "x86_64"
-git-tree-sha1 = "5c2148bab2df60b145856fe084bbf45574e5c8ad"
+git-tree-sha1 = "a702046f6601fdbb506f8655187b10b41eefb3fb"
 os = "freebsd"
 
     [[GAP_pkg_semigroups.download]]
-    sha256 = "3a5667b9402eb68779a2555995481d6a562a73738ffca30acf1d79c42a5cd155"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.60100.0+0/GAP_pkg_semigroups.v501.60100.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "5e926de27e806192031181a135a47e2b4764853accb3dbcfbbf0765b9ab729be"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_semigroups_jll.jl/releases/download/GAP_pkg_semigroups-v501.60300.0+0/GAP_pkg_semigroups.v501.60300.0.x86_64-unknown-freebsd.tar.gz"
